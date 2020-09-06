@@ -1,2 +1,2 @@
 # food app
-food web
+food web application
